@@ -7,8 +7,7 @@ JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 ## ✨ Try it in your browser ✨
 
 ➡️ **https://navinsubraman.github.io/my-jupyterlite/**
-
-![github-pages](![run_measurement_programs_from_jupyterlite](https://user-images.githubusercontent.com/96062990/229962911-1bf173d2-7b0a-479a-95c7-8d7c3f34f55d.gif))
+![run_measurement_programs_from_jupyterlite](https://user-images.githubusercontent.com/96062990/229962911-1bf173d2-7b0a-479a-95c7-8d7c3f34f55d.gif)
 
 ## Requirements
 
